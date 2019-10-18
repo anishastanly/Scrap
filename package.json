@@ -1,0 +1,26 @@
+{
+  "name": "scrapper",
+  "version": "1.0.0",
+  "description": "Scrap data from web",
+  "main": "app.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "express": "^4.17.1",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./bin/www"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anishastanly/sample.git"
+  },
+  "author": "Anisha stanly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anishastanly/sample/issues"
+  },
+  "homepage": "https://github.com/anishastanly/sample#readme"
+}
